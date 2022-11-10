@@ -1,7 +1,10 @@
 # Can't Touch This Password Generator
 
 ## Description
+
+```
 This password generator was created to generate random passwords for someone looking to randomize a password for security reasons. This password generator will keep the client/customers using the generator safe from hackers. 
+```
 
 ## User Story
 
