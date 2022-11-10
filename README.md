@@ -40,6 +40,9 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/images/password-generator.png)
 
-
+## Deployment
+```
+https://landobm.github.io/password-generator/
+```
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
