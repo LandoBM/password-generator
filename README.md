@@ -1,38 +1,41 @@
-# Can't Touch This Password Generator
+#Can't Touch This! Password Generator - 
+  ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-## Description
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributors](#contributors)
+  * [Test](#test)
+  * [Mock](#mock)
+  * [Questions](#questions)
 
-```
-This password generator was created to generate random passwords for someone looking to randomize a password for security reasons. This password generator will keep the client/customers using the generator safe from hackers. 
-```
 
-## User Story
+  
+* [License](#license)
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
+    
+  ## Description
+  This web application can be used to generate random passwords for the user. 
+  ## Installation
+  Not Specfific
+  ## Usage
+  Can be used to help with password needs. 
+  ## Contributors
+  Landon M.
+  ## License
+  MIT License
+  ## Test
+  Select yes or no to the provided prompts that will either enclude numbers, letters, or special characters.
 
-## Acceptance Criteria
+  ## Questions
+  * Github : [LandoBM](https://github.com/LandoBM/)
+  * E-Mail :landon.swdeveloper@gmail.com
 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-```
+  ## License
+    Licensed using MIT License.
+
+  
 
 ## Mock-Up
 
@@ -41,8 +44,4 @@ The following image shows the web application's appearance and functionality:
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/images/password-generator.png)
 
 ## Deployment
-```
 https://landobm.github.io/password-generator/
-```
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
