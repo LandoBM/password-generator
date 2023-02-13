@@ -1,4 +1,5 @@
-#Can't Touch This! Password Generator - 
+  # Can't Touch This! Password Generator 
+  
   ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
   ## Table of Contents
@@ -7,7 +8,6 @@
   * [Usage](#usage)
   * [Contributors](#contributors)
   * [Test](#test)
-  * [Mock](#mock)
   * [Questions](#questions)
 
 
@@ -35,13 +35,9 @@
   ## License
     Licensed using MIT License.
 
+  ## Mock-Up
+  The following image shows the web application's appearance and functionality:
+  ![The Password Generator application displays a red button to "Generate Password".](./Assets/images/password-generator.png)
   
-
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![The Password Generator application displays a red button to "Generate Password".](./Assets/images/password-generator.png)
-
-## Deployment
-https://landobm.github.io/password-generator/
+  ## Deployment
+  https://landobm.github.io/password-generator/
